@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sup yall 👋
 
 <!--
 **dzrbbtech/dzrbbtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m currently learning ~~code~~ **anything**
+
+![mahoraga](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhwM2s4dTNuOHdkOTQ3YndxMmY3OGxxcWloZjRidGtoajFxd3U0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2ztbBeEfCOiADOjoS/giphy.gif)
