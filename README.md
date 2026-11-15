@@ -87,24 +87,24 @@
     <tr>
       <td align="left" width="380" valign="top">
         <code>ENTITY ID &nbsp;&nbsp;&nbsp;&nbsp;:</code> <b>@dzrbbtech</b><br>
-        <code>PUBLIC REPOS &nbsp;:</code> <kbd>[ISI_JUMLAH_REPO]</kbd><br>
-        <code>CONTRIBUTIONS :</code> <kbd>[ISI_TOTAL_KONTRIBUSI]</kbd> <sub>this year</sub><br>
-        <code>STARS EARNED &nbsp;:</code> <kbd>[ISI_TOTAL_STARS]</kbd><br>
-        <code>PULL REQUESTS :</code> <kbd>[ISI_TOTAL_PR]</kbd><br>
-        <code>FOLLOWERS &nbsp;&nbsp;&nbsp;&nbsp;:</code> <kbd>[ISI_FOLLOWERS]</kbd>
+        <code>PUBLIC REPOS &nbsp;:</code> <kbd>3</kbd><br>
+        <code>CONTRIBUTIONS :</code> <kbd>24</kbd> <sub>this year</sub><br>
+        <code>STARS EARNED &nbsp;:</code> <kbd>0</kbd><br>
+        <code>PULL REQUESTS :</code> <kbd>0</kbd><br>
+        <code>FOLLOWERS &nbsp;&nbsp;&nbsp;&nbsp;:</code> <kbd>6</kbd>
       </td>
       <td align="left" width="380" valign="top">
-        <code>Python &nbsp;&nbsp;&nbsp;&nbsp;</code> <code>████████░░</code> <b>[XX]%</b><br>
-        <code>Go &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> <code>██████░░░░</code> <b>[XX]%</b><br>
-        <code>JavaScript </code> <code>█████░░░░░</code> <b>[XX]%</b><br>
-        <code>HTML / CSS </code> <code>████░░░░░░</code> <b>[XX]%</b><br><br>
+        <code>Python &nbsp;&nbsp;&nbsp;&nbsp;</code> <code>█░░░░░░░░░░</code> <b>10%</b><br>
+        <code>Go &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> <code>██░░░░░░░░</code> <b>20%</b><br>
+        <code>JavaScript </code> <code>██░░░░░░░░</code> <b>20%</b><br>
+        <code>HTML / CSS </code> <code>████████░░</code> <b>[XX]%</b><br><br>
         <sub><code>STATUS: ALL SYNTAX ASSIMILATED</code></sub>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <code>[ WHEEL SPIN CYCLE: ACTIVE ]</code> &nbsp;•&nbsp;
-        <code>CURRENT STREAK:</code> <kbd>[ISI_HARI] DAYS</kbd> &nbsp;•&nbsp;
+        <code>CURRENT STREAK:</code> <kbd>6 DAYS</kbd> &nbsp;•&nbsp;
         <code>ADAPTATION:</code> <kbd>100%</kbd>
       </td>
     </tr>
