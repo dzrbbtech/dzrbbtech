@@ -94,10 +94,10 @@
         <code>FOLLOWERS &nbsp;&nbsp;&nbsp;&nbsp;:</code> <kbd>6</kbd>
       </td>
       <td align="left" width="380" valign="top">
-        <code>Python &nbsp;&nbsp;&nbsp;&nbsp;</code> <code>█░░░░░░░░░░</code> <b>10%</b><br>
-        <code>Go &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> <code>██░░░░░░░░</code> <b>20%</b><br>
-        <code>JavaScript </code> <code>██░░░░░░░░</code> <b>20%</b><br>
-        <code>HTML / CSS </code> <code>████████░░</code> <b>[XX]%</b><br><br>
+        <code>Python &nbsp;&nbsp;&nbsp;&nbsp;</code> <code>█</code> <b>10%</b><br>
+        <code>Go &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> <code>██</code> <b>20%</b><br>
+        <code>JavaScript </code> <code>██</code> <b>20%</b><br>
+        <code>HTML / CSS </code> <code>████████</code> <b>80%</b><br><br>
         <sub><code>STATUS: ALL SYNTAX ASSIMILATED</code></sub>
       </td>
     </tr>
