@@ -11,7 +11,7 @@
         <br><br>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhwM2s4dTNuOHdkOTQ3YndxMmY3OGxxcWloZjRidGtoajFxd3U0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2ztbBeEfCOiADOjoS/giphy.gif" width="680" alt="Mahoraga Dharma Wheel" />
         <br>
-        <sub><code>ENTITY: DZRBBTECH // MODE: AUTONOMOUS EVOLUTION</code></sub>
+        <sub><code>ENTITY: dzrbbtech // MODE: AUTONOMOUS EVOLUTION</code></sub>
       </td>
     </tr>
   </table>
