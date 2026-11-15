@@ -76,21 +76,36 @@
 
   <br>
 
-  <!-- ================= SYSTEM TELEMETRY (BENTO STATS) ================= -->
+  <!-- ================= SYSTEM TELEMETRY (TEXT-ONLY STATS) ================= -->
   <h3>📊 System Telemetry</h3>
 
   <table width="760">
     <tr>
-      <td align="center" width="380">
-        <img src="https://github-readme-stats.vercel.app/api?username=dzrbbtech&show_icons=true&bg_color=0d1117&title_color=d4af37&icon_color=d4af37&text_color=e6edf3&border_color=30363d&hide_border=true" width="100%" alt="GitHub Stats" />
+      <th align="center" width="380">☸ Dharma Core Metrics</th>
+      <th align="center" width="380">⚔️ Assimilated Languages</th>
+    </tr>
+    <tr>
+      <td align="left" width="380" valign="top">
+        <code>ENTITY ID &nbsp;&nbsp;&nbsp;&nbsp;:</code> <b>@dzrbbtech</b><br>
+        <code>PUBLIC REPOS &nbsp;:</code> <kbd>[ISI_JUMLAH_REPO]</kbd><br>
+        <code>CONTRIBUTIONS :</code> <kbd>[ISI_TOTAL_KONTRIBUSI]</kbd> <sub>this year</sub><br>
+        <code>STARS EARNED &nbsp;:</code> <kbd>[ISI_TOTAL_STARS]</kbd><br>
+        <code>PULL REQUESTS :</code> <kbd>[ISI_TOTAL_PR]</kbd><br>
+        <code>FOLLOWERS &nbsp;&nbsp;&nbsp;&nbsp;:</code> <kbd>[ISI_FOLLOWERS]</kbd>
       </td>
-      <td align="center" width="380">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzrbbtech&layout=compact&bg_color=0d1117&title_color=d4af37&text_color=e6edf3&border_color=30363d&hide_border=true" width="100%" alt="Top Languages" />
+      <td align="left" width="380" valign="top">
+        <code>Python &nbsp;&nbsp;&nbsp;&nbsp;</code> <code>████████░░</code> <b>[XX]%</b><br>
+        <code>Go &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code> <code>██████░░░░</code> <b>[XX]%</b><br>
+        <code>JavaScript </code> <code>█████░░░░░</code> <b>[XX]%</b><br>
+        <code>HTML / CSS </code> <code>████░░░░░░</code> <b>[XX]%</b><br><br>
+        <sub><code>STATUS: ALL SYNTAX ASSIMILATED</code></sub>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://streak-stats.demolab.com?user=dzrbbtech&background=0D1117&border=0D1117&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=D4AF37&sideLabels=8B949E&dates=8B949E" width="540" alt="GitHub Streak" />
+        <code>[ WHEEL SPIN CYCLE: ACTIVE ]</code> &nbsp;•&nbsp;
+        <code>CURRENT STREAK:</code> <kbd>[ISI_HARI] DAYS</kbd> &nbsp;•&nbsp;
+        <code>ADAPTATION:</code> <kbd>100%</kbd>
       </td>
     </tr>
   </table>
