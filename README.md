@@ -1,8 +1,8 @@
 <!-- Header Text -->
 
-<h4 align="center" style="margin: 0; color:#555555">CONSTANTLY ADAPTING.</h4>
-<h5 align="center" style="margin: 0; color:#777777">CONSTANTLY ADAPTING.</h5>
-<h6 align="center" style="margin: 0; color:#999999">CONSTANTLY ADAPTING.</h6>
+<h4 align="center" style="margin: 0; color:#999999">CONSTANTLY ADAPTING.</h4>
+<h5 align="center" style="margin: 0; color:#666666">CONSTANTLY ADAPTING.</h5>
+<h6 align="center" style="margin: 0; color:#555555">CONSTANTLY ADAPTING.</h6>
 <br>
 
 <!-- Mahoraga GIF -->
